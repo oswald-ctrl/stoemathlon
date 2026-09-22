@@ -14,6 +14,7 @@ sans jamais repartir de zéro.
 | [06 — Faisable / pas faisable](./06-faisable-vs-pas-faisable.md) | Les limites réelles, techniques et légales, à connaître avant de coder |
 | [07 — Questions ouvertes](./07-questions-ouvertes.md) | Ce que j'ai besoin de savoir de ta part |
 | [08 — Roadmap](./08-roadmap.md) | Découpage en lots livrables |
+| [Synthèse complète](./synthese-complete.md) | **Tout le cadrage en un seul fichier autonome**, à transmettre à une autre session ou à un tiers |
 
 ## État existant du repo (constaté le 21/08/2026)
 
